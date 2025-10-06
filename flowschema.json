@@ -1,4 +1,5 @@
-    "inputs": [
+{
+"inputs": [
         {
             "name": "Input/output options",
             "description": "Define where the pipeline should find input data and save output data.",
